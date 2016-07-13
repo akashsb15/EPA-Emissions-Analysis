@@ -11,8 +11,9 @@ library(dplyr)
 groupByYear <- group_by(NEI,year)
 summByYear <- summarise(groupByYear, sum(Emissions))
 
-## PLot emisssion trend
-plot(summByYear, type = "l", col = "blue", xlab = "Year", ylab = "Total Emission (in tons)")
+## Plot emisssion trend
+plot(summByYear, type = "l", col = "blue", xlab = "Year", ylab = "Total Emission (in tons)",
+     main = "Emission Trend of PM-25 in the US")
 
 ## Save to PNG
 dev.copy(png,'plot1.png')
