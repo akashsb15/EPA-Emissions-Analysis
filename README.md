@@ -29,6 +29,9 @@ Source Classification Code Table (Source_Classification_Code.rds): This table pr
 
 1. Script - plot1.R. Figure - plot1.png. Total emissions of PM-25 have decreased across the US between 1999 and 2008.
 2. Script - plot2.R. Figure - plot2.png. Emissions in Baltimore City has decreased between 1999 and 2008. However, the emissions saw an increase between 2002 and 2005 before it dropped again in 2005.
-3. Script - plot3.R. Figure - plot3.png.
+3. Script - plot3.R. Figure - plot3.png. It is evident that "POINT" sources have led to a drastic increase in emissions. The general trend among other sources is that the emissions in 2008 has increased compared to the emissions in 1999. However, the emissions have decreased in 2008 compared to those of 2002 and 2005. Emissions from "NONPOINT" sources have increased in 2008.
+4. Script - plot4.R. Figure - plot4.png. The overall trend of emissions by coal combustion related - sources have decreased from 1999 to 2008. However, between 2002 and 2005 there was an increase in emissions, which subsequently decreased in 2008.
+5. Script - plot5.R. Figure - plot5.png. Emissions from motor vehicles in Baltimore City have declined. 1999 to 2002, there is a steep decline. 2002 to 2005, the decline is gradual and from 2005 to 2008 there is a faster rate of drop in emissions.
+6. Script - plot6.R. Figure - plot6.png. It is evident from the plot that the emissions in Los Angeles County is a lot higher than in Baltimore City. In the former, emissions saw an increase in 2002 and 2005 compared to 1999, but has come down in 2008. On the other hand, Baltimore City, has seen a consitent decrease in emissions by motor vehicles.
 
 
